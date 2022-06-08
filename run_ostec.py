@@ -16,6 +16,7 @@ import sys
 sys.path.append("external/stylegan2")
 sys.path.append("external/deep3dfacerecon")
 sys.path.append("external/graphonomy")
+sys.path.append("external/deep3dfacerecon/nvdiffrast")
 from core.operator import Operator
 from core.config import get_config
 import numpy as np
